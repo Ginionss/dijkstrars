@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: OnePage
-Template URL: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Aplikasi penerapan metode djikstra dalam menentukan rute ke rumah sakit terdekat di kota kupang NTT. aplikasi ini menggunakan maps API, PHP dan javascript.
